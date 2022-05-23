@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922345535601",
+    "project_id": "ridhoriyadi-b21d2",
+    "storage_bucket": "ridhoriyadi-b21d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922345535601:android:a3ba9fddf688f2a36c43d0",
+        "android_client_info": {
+          "package_name": "com.example.ujikom_ridhoriyadihartomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922345535601-rlqeu3e8r3h5d3cibfr2brrukqcnl2p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RXog7kkWD-8yCBMzE8JOV7eQAgdzXCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922345535601-rlqeu3e8r3h5d3cibfr2brrukqcnl2p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
